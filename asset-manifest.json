@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.cefb1a27.css",
-    "main.js": "/static/js/main.70b1ea57.js",
-    "index.html": "/index.html",
-    "main.cefb1a27.css.map": "/static/css/main.cefb1a27.css.map",
-    "main.70b1ea57.js.map": "/static/js/main.70b1ea57.js.map"
+    "main.css": "/delta/static/css/main.cefb1a27.css",
+    "main.js": "/delta/static/js/main.6997b563.js",
+    "index.html": "/delta/index.html",
+    "main.cefb1a27.css.map": "/delta/static/css/main.cefb1a27.css.map",
+    "main.6997b563.js.map": "/delta/static/js/main.6997b563.js.map"
   },
   "entrypoints": [
     "static/css/main.cefb1a27.css",
-    "static/js/main.70b1ea57.js"
+    "static/js/main.6997b563.js"
   ]
 }
